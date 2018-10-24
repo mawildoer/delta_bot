@@ -1,5 +1,7 @@
 # Delta Bot
 
+(https://github.com/mawildoer/delta_bot/blob/master/media/ortho%20finished.jpg)
+
 I completed this as a Mechatronics Systems Design project for university and hope someone can do something cool with it!
 
  - Easily extended to do lead/teach movements
