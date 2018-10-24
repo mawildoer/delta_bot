@@ -1,6 +1,6 @@
 # Delta Bot
 
-![Go to media folder to view](https://github.com/mawildoer/delta_bot/blob/master/media/ortho%20finished.jpg)
+![Go to media folder to view](https://media.giphy.com/media/Ww27cKEVD6SGH6ezyc/giphy.gif)
 
 I completed this as a Mechatronics Systems Design project for university and hope someone can do something cool with it!
 
