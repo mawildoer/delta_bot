@@ -33,12 +33,9 @@ public:
 
     // Derivative
     if (kd) {
-      T deriv = ((err - last_err) - int32_t(target - last_target));
+      T deriv = (err - last_err);
       last_err = err;
       last_target = target;
-
-      if (deriv > out_max) deriv = out_max;
-      else if (deriv < out_min) deriv = out_min;
 
       output += deriv * kd;
     }
